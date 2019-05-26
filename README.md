@@ -8,7 +8,7 @@ A repository showcasing examples of using [PyTorch](https://github.com/pytorch/p
 - Generative Adversarial Networks (DCGAN)
 - Variational Auto-Encoders
 - Superresolution using an efficient sub-pixel convolutional neural network
-- (Multi processing example)Hogwild training of shared ConvNets across multiple processes on MNIST
+- (**Multi processing example**)Hogwild training of shared ConvNets across multiple processes on MNIST
 - Training a CartPole to balance in OpenAI Gym with actor-critic
 - Natural Language Inference (SNLI) with GloVe vectors, LSTMs, and torchtext
 - Time sequence prediction - create an LSTM to learn Sine waves
